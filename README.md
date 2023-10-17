@@ -1,5 +1,5 @@
 
-# WanderLust: Your Travel Accommodation Platform
+# WanderLust: A Travel Accommodation Platform
 
 ## Description
 WanderLust is an online accommodation marketplace that connects hosts with properties to travelers seeking unique stays for short durations. This platform offers a seamless experience for both hosts and guests, allowing hosts to earn income by renting out their spaces and guests to find cozy and affordable accommodations.
